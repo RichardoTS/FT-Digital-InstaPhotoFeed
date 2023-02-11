@@ -1,0 +1,54 @@
+/* * {
+    border: 1px dashed red;
+} */
+
+body {
+    background: rgb(234, 234, 234);
+}
+
+.PhotoFeed {
+    width: 100%;
+    margin: auto;
+}
+
+.MainHeader {
+    width: 100%;
+    display: flex;
+    background: white;
+    justify-content: center;
+}
+
+.Header {
+    display: flex;
+}
+
+.Header1 {
+    width: 100%;
+}
+
+.Header1,
+.Header2 {
+    padding: 10px;
+    background-color: white;
+}
+
+.Footer {
+    background-color: white;
+    padding: 10px;
+}
+
+.FirstPhoto,
+.SecondPhoto,
+.ThirdPhoto,
+.FourthPhoto {
+    width: 450px;
+    height: 550%;
+    margin: 0 auto;
+}
+
+.Body img {
+    width: 100%;
+    display: flex; 
+}
+
+    
